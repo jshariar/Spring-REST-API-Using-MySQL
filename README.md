@@ -1,6 +1,8 @@
 # Spring-REST-API-Using-MySQL
 Product Api Created Using Spring Boot, Hibernate, JPA, MySQL
 
+Video: https://www.loom.com/share/d5bdafab169d400091d857526402f470
+
 ## API Endpoints
 ✔️ `/products` returns all products
 
